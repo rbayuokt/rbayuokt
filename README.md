@@ -6,8 +6,6 @@ fall in love with reactjs & react native :heart:</p>
 - 🌱 I’m currently learning React
 - ⚡ I don't deliver a bad product :grin:
 
-<br/>
-
 ## Let's be friends !
 <img src="https://img.icons8.com/dusk/64/000000/twitter.png" width="20"/>  [Twitter](https://twitter.com/rbayuokt) <br/>
 <img src="https://img.icons8.com/dusk/64/000000/facebook.png" width="20"/>  [Facebook](https://www.facebook.com/RizkybayuCheater) <br/>
