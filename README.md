@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-**rbayuokt/rbayuokt**
 **Easter Egg :**<br><br>
-<img src="Bayu Header.png" width="800px" /><br>
+<div style="text-align:center"><img src="Bayu Header.png" width="800px" /></div>
 
 Here are some ideas to get you started:
 
