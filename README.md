@@ -1,4 +1,4 @@
-<p align="center"><img src="Bayu Header.png" width="800px" /></p>
+<p align="center"><img src="Bayu Header 2.png" width="800px" /></p>
 
 Here are some ideas to get you started:
 
