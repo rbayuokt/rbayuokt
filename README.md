@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-**rbayuokt/rbayuokt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rbayuokt/rbayuokt**
+**Easter Egg :**<br><br>
+<img src="Bayu Header.png" width="800px" /><br>
 
 Here are some ideas to get you started:
 
