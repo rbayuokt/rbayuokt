@@ -1,4 +1,3 @@
-# Hi There 👋
 <p align="center"><img src="Bayu Header.png" width="800px" /></p>
 
 Here are some ideas to get you started:
