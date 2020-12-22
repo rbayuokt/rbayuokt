@@ -1,6 +1,6 @@
 <p align="center"><img src="Bayu Header 2.png" width="800px" /></p>
 
-<p align="center">currently working as UI / UX researcher also Frontend developer<br/>
+<p align="center">currently working as Full Time UI / UX Designer also Frontend developer<br/>
 fall in love with reactjs & react native :heart:</p>
 
 - 🌱 I’m currently learning React
