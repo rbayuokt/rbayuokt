@@ -1,10 +1,9 @@
 <p align="center"><img src="Bayu Header 2.png" width="800px" /></p>
 
-<p align="center">currently working as Full Time Remote UI / UX Designer also Frontend developer<br/>
-fall in love with reactjs & react native :heart:</p>
+<p align="center">Currently working as Full Time Remote Developer <br/>
 
 <p align="center">what I can do ?<br/> 
-⚡ReactJS/React Native w/Typescript or Javascript, NextJS, Vue.JS, SwiftUI, Flutter, Making React Native Bridges ⚡ <br />
+⚡ React, NextJS, Vue, React-Native, Typescript, Jetpack Compose, SwiftUI ⚡ <br />
 </p>
 
 
