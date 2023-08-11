@@ -1,6 +1,6 @@
 <!-- <p align="center"><img src="Bayu Header 2.png" width="800px" /></p> -->
 
-<p align="center">Currently working as Full Time Remote Developer <br/>
+<p align="center">currently working as Full Time Remote Developer <br/>
 
 <p align="center">what I can do ?<br/> 
 ⚡ React, NextJS, Vue, React-Native, Typescript, Jetpack Compose, SwiftUI ⚡ <br />
@@ -24,5 +24,5 @@
 <!-- <img src="https://img.icons8.com/dusk/64/000000/linkedin.png" width="20"/>   [Linked.in](http://linked.in/rbayuokt) <br/> -->
 <!-- <img src="https://img.icons8.com/dusk/64/000000/gmail.png" width="20"/>  [Gmail](mailto:rizkybayuoktavian?subject=Let's%20Talk) -->
 
-<p align="center"> ** If you need a solution for your project, let's talk! ** </p>
+<p align="center"> ** if you need a solution for your project, let's talk! ** </p>
 <!-- <p align="center">:sun_with_face:  https://hello-ribay.netlify.app/ :sun_with_face: </p> -->
