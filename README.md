@@ -1,6 +1,6 @@
 <!-- <p align="center"><img src="Bayu Header 2.png" width="800px" /></p> -->
 
-<p align="center">currently working as Full Time Remote Developer <br/>
+<p align="center">「 currently working as Full Time Remote Developer 」<br/>
 
 <p align="center">what I can do ?<br/> 
 ⚡ React, NextJS, Vue, React-Native, Typescript, Jetpack Compose, SwiftUI ⚡ <br />
