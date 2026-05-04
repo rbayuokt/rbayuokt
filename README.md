@@ -3,7 +3,7 @@
 <p align="center">「 currently working as Full Time Remote Developer 」<br/>
 
 <p align="center">what I can do ?<br/> 
-⚡ React, NextJS, Vue, React-Native, Typescript, Jetpack Compose, SwiftUI ⚡ <br />
+⚡ React, NextJS, Vue, React-Native, Typescript, Jetpack Compose, SwiftUI, NestJS, Python ⚡ <br />
   🪄 I have 25+ private repositories, mostly from a mirrored repository of my previous works. 🪄 <br /><br />
   ⚠️ the repositories that you see now are outdated. those repositories do not reflect my best implementation practices ⚠️
 </p>
@@ -16,6 +16,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!-- ## Let's be friends! -->
 <!-- <img src="https://img.icons8.com/dusk/64/000000/twitter.png" width="20"/>   [Twitter](https://twitter.com/rbayuokt) <br/> -->
