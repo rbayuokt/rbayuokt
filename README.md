@@ -38,6 +38,23 @@ My primary focus is **React Native and Expo**, supported by native mobile develo
 * **Delivery:** CI/CD workflows, App Store Connect, Google Play Console, subscriptions, and in-app purchases
 * **Applied AI:** On-device computer vision, model prototyping, and LLM-powered experiences
 
+## `> side-projects`
+
+A collection of products and experiments I build and maintain outside of my main work.
+
+| Project        | URL                                                           | Kind         | Source     |
+| -------------- | ------------------------------------------------------------- | ------------ | ---------- |
+| **UkirMoment** | [ukirmoment.houseofky.xyz](https://ukirmoment.houseofky.xyz/) | Kiosk App    | Private    |
+| **UkirLink**   | [ukir-link.houseofky.xyz](https://ukir-link.houseofky.xyz/)   | Site Builder | Private    |
+| **Replay**     | [replay.houseofky.xyz](https://replay.houseofky.xyz/)         | PWA          | Private    |
+| **CVStudio**   | [cvstudio.houseofky.xyz](https://cvstudio.houseofky.xyz/)     | Web App      | Private    |
+| **Iris**       | [iris.houseofky.xyz](https://iris.houseofky.xyz/)             | Web Service  | Private |
+
+<p align="right">
+  <a href="https://houseofky.xyz/#projects">See more side projects →</a>
+</p>
+
+
 ## `> technologies`
 
 #### Mobile
