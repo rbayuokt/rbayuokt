@@ -42,19 +42,39 @@ My primary focus is **React Native and Expo**, supported by native mobile develo
 
 A collection of products and experiments I build and maintain outside of my main work.
 
-| Project              | URL                                                                                  | Kind                |
-| -------------------- | ------------------------------------------------------------------------------------ | ------------------- |
-| **react-native-psp** | [github.com/rbayuokt/react-native-psp](https://github.com/rbayuokt/react-native-psp) | React Native Target |
-| **CVStudio**         | [cvstudio.houseofky.xyz](https://cvstudio.houseofky.xyz/)                            | Web App             |
-| **Replay**           | [replay.houseofky.xyz](https://replay.houseofky.xyz/)                                | PWA                 |
-| **UkirLink**         | [ukir-link.houseofky.xyz](https://ukir-link.houseofky.xyz/)                          | Site Builder        |
-| **UkirMoment**       | [ukirmoment.houseofky.xyz](https://ukirmoment.houseofky.xyz/)                        | Kiosk App           |
-| **Iris**             | [iris.houseofky.xyz](https://iris.houseofky.xyz/)                                    | Web Service         |
+#### Expo and React Native packages
+
+Native modules I write, publish, and maintain. Swift on iOS, Kotlin on Android, TypeScript on top.
+
+| Package | What it does |
+| ------- | ------------ |
+| **[@rbayuokt/react-native-psp](https://react-native-psp.houseofky.xyz)** | React Native for the Sony PSP. React 19 and react-reconciler run on the handheld itself, on a C renderer with Yoga for layout and QuickJS for the JavaScript. Verified on real PSP-1000 hardware. |
+| **[expo-mlkit-ocr](https://www.npmjs.com/package/expo-mlkit-ocr)** | On-device text recognition, wrapping Google ML Kit v2 with a Skia overlay for drawing results back onto the frame. |
+| **[@rbayuokt/expo-infinite-media](https://www.npmjs.com/package/@rbayuokt/expo-infinite-media)** | A native paged media feed. Pooled players, a preload policy written twice in Swift and Kotlin, and bounded caches, so a busy JS thread can never stall a video. No runtime dependencies. |
+| **[@rbayuokt/expo-face-vision](https://www.npmjs.com/package/@rbayuokt/expo-face-vision)** | On-device face detection with the whole flow built in: auto selfie capture, KYC liveness, a Face ID style scan ring, head gestures, and blinks. Frames never cross into JS. |
+| **[@rbayuokt/expo-background-removal](https://www.npmjs.com/package/@rbayuokt/expo-background-removal)** | Cuts the subject out of a photo on device and returns a transparent PNG. Vision on iOS, ML Kit on Android. |
+| **[expo-screen-corners](https://www.npmjs.com/package/expo-screen-corners)** | Reads the device's real screen corner radius, so layouts sit concentric with the hardware instead of guessing at a number. |
+| **[react-native-image-detective](https://www.npmjs.com/package/react-native-image-detective)** | On-device ML behind one small API: face detection, barcode scanning, and image labeling, without touching the native layer. |
+| **[create-kima-expo-genesis](https://www.npmjs.com/package/create-kima-expo-genesis)** | One-command generator for an Expo starter, so every new project begins with the same architecture. |
+
+<p align="right">
+  <a href="https://www.npmjs.com/~rbayuokt">All packages on npm →</a>
+</p>
+
+#### Products and experiments
+
+| Project | URL | Kind |
+| ------- | --- | ---- |
+| **CVStudio** | [cvstudio.houseofky.xyz](https://cvstudio.houseofky.xyz/) | Web App |
+| **Replay** | [replay.houseofky.xyz](https://replay.houseofky.xyz/) | PWA |
+| **UkirLink** | [ukir-link.houseofky.xyz](https://ukir-link.houseofky.xyz/) | Site Builder |
+| **UkirMoment** | [ukirmoment.houseofky.xyz](https://ukirmoment.houseofky.xyz/) | Kiosk App |
+| **Iris** | [iris.houseofky.xyz](https://iris.houseofky.xyz/) | Web Service |
+| **Jejak** | [github.com/rbayuokt/jejak](https://github.com/rbayuokt/jejak) | Full Stack PWA |
 
 <p align="right">
   <a href="https://houseofky.xyz/#projects">See more side projects →</a>
 </p>
-
 
 ## `> technologies`
 
@@ -108,7 +128,7 @@ Most of my production work is stored in private repositories. Some public reposi
 Have a product idea, technical challenge, or project that needs a thoughtful engineering solution?
 
 <p align="center">
-  <strong>Let’s build something useful.</strong>
+  <strong>Let's build something useful.</strong>
   <br /><br />
   <a href="https://houseofky.xyz/">Visit my portfolio →</a>
 </p>
