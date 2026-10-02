@@ -3,11 +3,10 @@
 <h1 align="center">Rizky Bayu</h1>
 
 <p align="center">
-  <!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gitstars.rizkybayuoktavian.workers.dev/rbayuokt?theme=dark" />
-  <img src="https://gitstars.rizkybayuoktavian.workers.dev/rbayuokt?theme=light" alt="GitStars" />
-</picture> -->
-  <img src="https://gitstars.rizkybayuoktavian.workers.dev/rbayuokt?theme=light" alt="GitStars" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitstars.rizkybayuoktavian.workers.dev/rbayuokt?theme=light" />
+  <img src="https://gitstars.rizkybayuoktavian.workers.dev/rbayuokt?theme=dark" alt="GitStars" />
+</picture>
 </p>
 
 <p align="center">
