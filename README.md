@@ -3,10 +3,11 @@
 <h1 align="center">Rizky Bayu</h1>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/dynamic/json?logo=github&label=%E2%98%85%20GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Frbayuokt"
-    alt="GitHub Stars"
-  />
+  <!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitstars.rizkybayuoktavian.workers.dev/rbayuokt?theme=dark" />
+  <img src="https://gitstars.rizkybayuoktavian.workers.dev/rbayuokt?theme=light" alt="GitStars" />
+</picture> -->
+  <img src="https://gitstars.rizkybayuoktavian.workers.dev/rbayuokt?theme=light" alt="GitStars" />
 </p>
 
 <p align="center">
